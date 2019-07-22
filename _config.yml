@@ -111,11 +111,11 @@ author:
   avatar           : "https://avatars2.githubusercontent.com/u/22043176?s=460&amp;v=4" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "My Personal Portfolio."
   location         : "Singapore"
-  email            : "chriskejw@gmail.com"
+  # email            : "chriskejw@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:youremial@email.com
+      url: "mailto:chriskejw@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -127,7 +127,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/chriskejw"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
