@@ -131,9 +131,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
-      url: "https://www.linkedin.com/in/chriskejw/"
+#     - label: "LinkedIn"
+#       icon: "fab fa-fw fa-linkedin-square"
+#       url: "https://www.linkedin.com/in/chriskejw/"
 
 # Site Footer
 footer:
