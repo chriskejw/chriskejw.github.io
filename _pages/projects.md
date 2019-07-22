@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "Project by Tags"
+title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
