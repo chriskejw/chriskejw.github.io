@@ -112,7 +112,7 @@ author:
   bio              : "My Personal Portfolio."
   location         : "Singapore"
   email            : "chriskejw@gmail.com"
-  linkedin         : "https://www.linkedin.com/in/chriskejw/"
+  linkedin         : "in/chriskejw/"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: "Project Test"
 tags: [data science, tutorial, data visualisation]
 header:
